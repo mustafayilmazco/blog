@@ -10,7 +10,7 @@ Düzenleniyor
 
 
 
-**may u needs ✨**
+**✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
